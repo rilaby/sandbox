@@ -22,7 +22,7 @@
 **Examples:**
 
 ### Decorator
-Intent: Adds new possibilities w/o changin the interface.
+**Intent:** Adds new possibilities w/o changin the interface.
 
 
 
