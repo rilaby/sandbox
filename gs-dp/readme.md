@@ -39,6 +39,10 @@ Visitor
 
 
 ## Design Principles
+<<<<<<< HEAD
 #### Principle of Least Knowledge
 Talk to your immediate friends only.
+=======
+#### Principle of Least Knowledge - talk to your immediate friends.
+>>>>>>> 8b578a6e77925e20d5de4dbe2b4dbed3bd277771
 #### Law of Demeter == Principle of Least Knowledge
