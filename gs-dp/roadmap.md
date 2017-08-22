@@ -1,9 +1,9 @@
 #Roadmap:
 
-09/08 -  structural: decorator, adapter, bridge, facade
+09/08 -  structural: decorator, adapter, facade
 
-16/08 - structural: flyweight, proxy, composite
+16/08 - 
 
-23/08 - tbd
+23/08 - 
 
-30/08 - tbd
+30/08 - structural: flyweight, proxy , bridge
