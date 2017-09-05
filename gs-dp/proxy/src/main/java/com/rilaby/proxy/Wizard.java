@@ -2,15 +2,15 @@ package com.rilaby.proxy;
 
 public class Wizard {
 
-  private final String name;
+    private final String name;
 
-  public Wizard(String name) {
-    this.name = name;
-  }
+    public Wizard(String name) {
+        this.name = name;
+    }
 
-  @Override
-  public String toString() {
-    return name;
-  }
+    @Override
+    public String toString() {
+        return name;
+    }
 
 }

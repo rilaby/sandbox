@@ -5,10 +5,10 @@ import org.slf4j.LoggerFactory;
 
 public class IvoryTower implements WizardTower {
 
-  private static final Logger logger = LoggerFactory.getLogger(IvoryTower.class);
+    private static final Logger logger = LoggerFactory.getLogger(IvoryTower.class);
 
-  public void enter(Wizard wizard) {
-    logger.info("{} enters the tower.", wizard);
-  }
+    public void enter(Wizard wizard) {
+        logger.info("{} enters the tower.", wizard);
+    }
 
 }

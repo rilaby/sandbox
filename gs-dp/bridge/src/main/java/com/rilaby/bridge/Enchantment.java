@@ -2,9 +2,9 @@ package com.rilaby.bridge;
 
 public interface Enchantment {
 
-  void onActivate();
+    void onActivate();
 
-  void apply();
+    void apply();
 
-  void onDeactivate();
+    void onDeactivate();
 }
