@@ -17,6 +17,7 @@
     <modules>
         <module>proxy</module>
         <module>bridge</module>
+        <module>flyweight</module>
     </modules>
 
     <dependencies>
